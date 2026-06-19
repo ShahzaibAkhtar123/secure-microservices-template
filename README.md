@@ -18,16 +18,7 @@ A production-ready template demonstrating how to build **truly secure microservi
 
 - [Why This Template?](#-why-this-template)
 - [Quick Start](#-quick-start)
-- [Architecture](#-architecture)
-- [Features](#-features)
-- [Security](#-security)
-- [API Documentation](#-api-documentation)
-- [Testing](#-testing)
-- [Deployment](#-deployment)
-- [Performance](#-performance)
-- [Troubleshooting](#-troubleshooting)
-- [Contributing](#-contributing)
-- [License](#-license)
+
 
 ---
 
