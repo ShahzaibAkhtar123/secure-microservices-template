@@ -1,4 +1,4 @@
-cat > README.md << 'EOF'
+
 # Secure Microservices Template
 
 [![Docker](https://img.shields.io/badge/Docker-20.10+-blue.svg)](https://www.docker.com/)
